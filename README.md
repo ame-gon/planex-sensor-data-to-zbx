@@ -50,6 +50,7 @@ Planex から API で取得するデータは Planex Cloud で保存されてい
         - Zabbix に作成した humidity の監視アイテムのキーを設定してください。
     - "key_barometric_pressure"
         - Zabbix に作成した pressure の監視アイテムのキーを設定してください。
+- config.json の data_file に設定したパスが存在しない場合、フォルダを作成してください。 
 
 ### スクリプトの実行
 以下のコマンドでスクリプトを実行してください。

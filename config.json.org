@@ -1,0 +1,11 @@
+{
+    "api_url" : "https://svcipp.planex.co.jp/api/get_data.php?",
+    "token" : "<TOKEN>",
+    "type" : "<Sensor Type>",
+    "mac" : "<MAC Address",
+    "data_file" : "<File path of save latest sensor data>",
+    "zabbix_ip" : "<Zabbix IP>",
+    "key_temp" : "<Zabbix key of temp>",
+    "key_humidity" : "Zabbix key of humidity",
+    "key_barometric_pressure" : "Zabbix key of temp pressure"
+}
